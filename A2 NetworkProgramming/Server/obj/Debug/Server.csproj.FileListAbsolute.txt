@@ -1,0 +1,5 @@
+c:\users\frankie\documents\visual studio 2017\Projects\A2 NetworkProgramming\Server\bin\Debug\Server.exe
+c:\users\frankie\documents\visual studio 2017\Projects\A2 NetworkProgramming\Server\bin\Debug\Server.pdb
+c:\users\frankie\documents\visual studio 2017\Projects\A2 NetworkProgramming\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\frankie\documents\visual studio 2017\Projects\A2 NetworkProgramming\Server\obj\Debug\Server.exe
+c:\users\frankie\documents\visual studio 2017\Projects\A2 NetworkProgramming\Server\obj\Debug\Server.pdb

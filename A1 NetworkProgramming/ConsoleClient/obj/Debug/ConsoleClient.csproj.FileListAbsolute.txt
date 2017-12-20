@@ -1,0 +1,4 @@
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleClient\bin\Debug\ConsoleClient.exe
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleClient\bin\Debug\ConsoleClient.pdb
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleClient\obj\Debug\ConsoleClient.exe
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleClient\obj\Debug\ConsoleClient.pdb

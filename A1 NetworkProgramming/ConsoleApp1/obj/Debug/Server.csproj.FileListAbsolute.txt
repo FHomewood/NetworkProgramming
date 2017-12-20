@@ -1,0 +1,5 @@
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleApp1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\frankie\documents\visual studio 2017\Projects\A1 NetworkProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
